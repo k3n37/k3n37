@@ -1,16 +1,14 @@
-## Hi there 👋
+# k3n37
 
-<!--
-**k3n37/k3n37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Domain Hubs
+- Blockchain: https://github.com/k3n37/blockchain-labs
+- Cybersecurity: https://github.com/k3n37/cybersecurity-labs
+- Web Development: https://github.com/k3n37/web-development
+- Computer Science: https://github.com/k3n37/computer-science
+- Frameworks: https://github.com/k3n37/frameworks
+- Machine Learning: https://github.com/k3n37/machine-learning
+- UI/UX Design: https://github.com/k3n37/ui-ux-design
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Right Now
+- Building small, finished labs weekly
+- Growing strong notes + examples in each hub
