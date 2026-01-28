@@ -1,6 +1,24 @@
-# 💫 About Me:
-👋 About Me<br>I’m Dev Nairb, a software engineer with a strong foundation in computer science and a broad interest across modern engineering domains, including web development, machine learning, cybersecurity, blockchain, and UI design.<br>I enjoy building systems from first principles — understanding how things work under the hood — and then applying that knowledge to create practical, well-structured, and maintainable software. My GitHub is organized as a knowledge hub + project ecosystem, where each repository represents either a core domain, a real project, or a focused learning track.<br>I care about:<br>Writing clean, readable, and intentional code<br>Strong fundamentals (data structures, algorithms, systems)<br>Security, performance, and scalability<br>Clear documentation and reproducible projects<br>This profile reflects real work and continuous learning, not tutorials or filler repositories. Each project is designed to demonstrate problem-solving, engineering judgment, and growth over time.<br>🔧 Technical Interests<br>Web Development: full-stack systems, APIs, performance, architecture<br>Machine Learning: models from scratch, evaluation, applied ML<br>Cybersecurity: web security, threat modeling, defensive techniques<br>Blockchain: smart contracts, decentralized systems, cryptography basics<br>UI / UX: design systems, accessibility, developer-friendly interfaces<br>Computer Science: algorithms, systems, and core theory<br>🎯 Current Focus<br>Building a high-quality, domain-structured GitHub portfolio with meaningful projects, solid documentation, and long-term maintainability.
+💫 About Me:
 
+👋 About Me<br>
+I’m **Dev Nairb**, a software engineer with a strong foundation in computer science and a deep interest in building and understanding systems across web development, machine learning, cybersecurity, blockchain, and UI design.<br><br>
+
+I enjoy building software **from first principles**—taking the time to understand how things work under the hood, how data flows through a system, and where things can fail—then applying that understanding to create **practical, well-structured, and maintainable solutions**. I care about clarity in both code and design, and I prefer systems that are simple, explicit, and easy to reason about.<br><br>
+
+My GitHub is intentionally organized as a **knowledge hub and project ecosystem**, where each repository represents real work: a core domain, a complete project, or a focused learning track backed by implementation and documentation. This profile reflects **genuine engineering effort and continuous learning**, not tutorials or filler repositories. Each project is designed to demonstrate problem-solving ability, thoughtful tradeoffs, and growth over time.<br><br>
+
+I place a strong emphasis on **clean, readable, and intentional code**, solid fundamentals in data structures and systems, and building software with **security, performance, and scalability** in mind. Clear documentation and reproducibility are important to me, both for my own understanding and for others who may read or use my work.<br><br>
+
+🔧 Technical Interests<br>
+Web Development: full-stack systems, APIs, performance, and architecture<br>
+Machine Learning: models from scratch, evaluation, and applied ML systems<br>
+Cybersecurity: web security, threat modeling, and defensive techniques<br>
+Blockchain: smart contracts, decentralized systems, and cryptography basics<br>
+UI / UX: design systems, accessibility, and developer-friendly interfaces<br>
+Computer Science: algorithms, systems, and core theory<br><br>
+
+🎯 Current Focus<br>
+Building a **high-quality, domain-structured GitHub portfolio** with meaningful projects, strong documentation, and an emphasis on long-term maintainability and engineering clarity
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k3n37 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akeemayman@gmail.com) 
