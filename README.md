@@ -19,7 +19,7 @@ The goal is to show not just isolated code, but how modern software systems fit 
 
 ## Flagship repositories
 
-- [`master-platform`](https://github.com/k3n37/master-platform)  
+- [`orbit`](https://github.com/k3n37/orbit)  
   Flagship intelligent cloud SaaS platform connecting product, backend, AI, data, infrastructure, and reliability.
 
 - [`skill-os-ui`](https://github.com/k3n37/skill-os-ui)  
@@ -28,71 +28,71 @@ The goal is to show not just isolated code, but how modern software systems fit 
 - [`saas-platform`](https://github.com/k3n37/saas-platform)  
   Product-oriented SaaS platform starter focused on multi-tenant business domains.
 
-- [`ai-platform`](https://github.com/k3n37/ai-platform)  
+- [`synapse`](https://github.com/k3n37/synapse)  
   AI service layer for ingestion, retrieval, embeddings, and LLM orchestration.
 
-- [`service-template`](https://github.com/k3n37/service-template)  
+- [`forge`](https://github.com/k3n37/forge)  
   Golden-path service starter for production-minded platform services.
 
-- [`internal-developer-platform`](https://github.com/k3n37/internal-developer-platform)  
+- [`relay`](https://github.com/k3n37/relay)  
   Self-service platform direction for service ergonomics, tooling, and internal developer workflows.
 
 ## 10/10 Software Engineer Skill Map
 
 ### 1. Computer Science Foundations
 
-- [`foundations-lab`](https://github.com/k3n37/foundations-lab)
+- [`foundry`](https://github.com/k3n37/foundry)
 - [`algorithms-and-data-structures`](https://github.com/k3n37/algorithms-and-data-structures)
 
 ### 2. Programming Mastery
 
-- [`programming-patterns`](https://github.com/k3n37/programming-patterns)
+- [`craft`](https://github.com/k3n37/craft)
 
 ### 3. Software Engineering Practices
 
-- [`service-template`](https://github.com/k3n37/service-template)
+- [`forge`](https://github.com/k3n37/forge)
 - [`saas-platform`](https://github.com/k3n37/saas-platform)
 
 ### 4. System Design & Architecture
 
-- [`system-design-lab`](https://github.com/k3n37/system-design-lab)
+- [`atlas`](https://github.com/k3n37/atlas)
 - [`k3n37-systems-lab`](https://github.com/k3n37/k3n37-systems-lab)
 
 ### 5. Distributed Systems
 
-- [`distributed-systems-lab`](https://github.com/k3n37/distributed-systems-lab)
+- [`mesh`](https://github.com/k3n37/mesh)
 
 ### 6. Infrastructure & Cloud
 
-- [`infrastructure-platform`](https://github.com/k3n37/infrastructure-platform)
+- [`nimbus`](https://github.com/k3n37/nimbus)
 - [`devops-toolkit`](https://github.com/k3n37/devops-toolkit)
 
 ### 7. Observability & Reliability
 
-- [`observability-stack`](https://github.com/k3n37/observability-stack)
+- [`beacon`](https://github.com/k3n37/beacon)
 
 ### 8. Security Engineering
 
-- [`security-platform`](https://github.com/k3n37/security-platform)
+- [`aegis`](https://github.com/k3n37/aegis)
 
 ### 9. Data Engineering
 
-- [`data-platform`](https://github.com/k3n37/data-platform)
+- [`flux`](https://github.com/k3n37/flux)
 - [`streaming-analytics-engine`](https://github.com/k3n37/streaming-analytics-engine)
 
 ### 10. AI & Intelligent Systems
 
-- [`ai-platform`](https://github.com/k3n37/ai-platform)
+- [`synapse`](https://github.com/k3n37/synapse)
 - [`ai-knowledge-system`](https://github.com/k3n37/ai-knowledge-system)
 
 ### 11. Automation & Developer Productivity
 
 - [`automation-tools`](https://github.com/k3n37/automation-tools)
-- [`internal-developer-platform`](https://github.com/k3n37/internal-developer-platform)
+- [`relay`](https://github.com/k3n37/relay)
 
 ### 12. Product & Leadership
 
-- [`master-platform`](https://github.com/k3n37/master-platform)
+- [`orbit`](https://github.com/k3n37/orbit)
 - [`skill-os-ui`](https://github.com/k3n37/skill-os-ui)
 - [`project-universe`](https://github.com/k3n37/project-universe)
 - [`dev-nairb`](https://github.com/k3n37/dev-nairb)
