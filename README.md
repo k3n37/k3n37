@@ -22,10 +22,10 @@ The goal is to show not just isolated code, but how modern software systems fit 
 - [`orbit`](https://github.com/k3n37/orbit)  
   Flagship intelligent cloud SaaS platform connecting product, backend, AI, data, infrastructure, and reliability.
 
-- [`skill-os-ui`](https://github.com/k3n37/skill-os-ui)  
+- [`canvas`](https://github.com/k3n37/canvas)  
   Premium UI layer for engineering dashboards, repository catalogs, and system storytelling.
 
-- [`saas-platform`](https://github.com/k3n37/saas-platform)  
+- [`summit`](https://github.com/k3n37/summit)  
   Product-oriented SaaS platform starter focused on multi-tenant business domains.
 
 - [`synapse`](https://github.com/k3n37/synapse)  
@@ -42,7 +42,7 @@ The goal is to show not just isolated code, but how modern software systems fit 
 ### 1. Computer Science Foundations
 
 - [`foundry`](https://github.com/k3n37/foundry)
-- [`algorithms-and-data-structures`](https://github.com/k3n37/algorithms-and-data-structures)
+- [`kernel`](https://github.com/k3n37/kernel)
 
 ### 2. Programming Mastery
 
@@ -51,7 +51,7 @@ The goal is to show not just isolated code, but how modern software systems fit 
 ### 3. Software Engineering Practices
 
 - [`forge`](https://github.com/k3n37/forge)
-- [`saas-platform`](https://github.com/k3n37/saas-platform)
+- [`summit`](https://github.com/k3n37/summit)
 
 ### 4. System Design & Architecture
 
@@ -65,7 +65,7 @@ The goal is to show not just isolated code, but how modern software systems fit 
 ### 6. Infrastructure & Cloud
 
 - [`nimbus`](https://github.com/k3n37/nimbus)
-- [`devops-toolkit`](https://github.com/k3n37/devops-toolkit)
+- [`anvil`](https://github.com/k3n37/anvil)
 
 ### 7. Observability & Reliability
 
@@ -78,23 +78,23 @@ The goal is to show not just isolated code, but how modern software systems fit 
 ### 9. Data Engineering
 
 - [`flux`](https://github.com/k3n37/flux)
-- [`streaming-analytics-engine`](https://github.com/k3n37/streaming-analytics-engine)
+- [`pulse`](https://github.com/k3n37/pulse)
 
 ### 10. AI & Intelligent Systems
 
 - [`synapse`](https://github.com/k3n37/synapse)
-- [`ai-knowledge-system`](https://github.com/k3n37/ai-knowledge-system)
+- [`lore`](https://github.com/k3n37/lore)
 
 ### 11. Automation & Developer Productivity
 
-- [`automation-tools`](https://github.com/k3n37/automation-tools)
+- [`automata`](https://github.com/k3n37/automata)
 - [`relay`](https://github.com/k3n37/relay)
 
 ### 12. Product & Leadership
 
 - [`orbit`](https://github.com/k3n37/orbit)
-- [`skill-os-ui`](https://github.com/k3n37/skill-os-ui)
-- [`project-universe`](https://github.com/k3n37/project-universe)
+- [`canvas`](https://github.com/k3n37/canvas)
+- [`cosmos`](https://github.com/k3n37/cosmos)
 - [`dev-nairb`](https://github.com/k3n37/dev-nairb)
 - [`personal-portfolio`](https://github.com/k3n37/personal-portfolio)
 
