@@ -1,82 +1,102 @@
-# 💫 About Me
+# k3n37
 
-I’m **Dev Nairb**, a software engineer with a strong foundation in **computer science** and a deep interest in building systems that are **correct, secure, and maintainable**.
+Software engineer building connected systems across product engineering, AI platforms, distributed systems, infrastructure, security, observability, and developer tooling.
 
-I enjoy working **from first principles**—understanding how systems behave under real constraints, how data flows through them, and where they can fail—then designing solutions that are simple, explicit, and easy to reason about. I value clarity in both code and design, and I prefer engineering decisions that hold up over time rather than quick or clever fixes.
+## What this profile is
 
-My GitHub is structured as a **domain-oriented engineering workspace**. Each repository represents real work: a complete system, a focused experiment, or a learning track backed by implementation, documentation, and iteration. This profile reflects **intentional engineering effort and continuous learning**, not tutorials or filler repositories.
+This GitHub is structured as an engineering ecosystem rather than a loose collection of unrelated repos.
 
-I place strong emphasis on **clean, readable, and intentional code**, solid fundamentals in data structures and systems, and building software with **security, performance, and scalability** in mind. Clear documentation and reproducibility are core parts of how I work.
+The work is organized into connected layers:
 
----
+- core foundations and programming patterns
+- system design and distributed systems labs
+- infrastructure, security, and observability platforms
+- data and AI services
+- internal tooling and developer platform work
+- flagship product and SaaS repositories
 
-## 🔧 Areas of Focus
+The goal is to show not just isolated code, but how modern software systems fit together end to end.
 
-- **Web & Backend Engineering** — full-stack systems, APIs, authentication, performance, architecture  
-- **Machine Learning** — models from scratch, evaluation, applied ML systems  
-- **Cybersecurity** — web security, threat modeling, defensive engineering  
-- **Blockchain** — smart contracts, decentralized systems, cryptography fundamentals  
-- **UI / UX Engineering** — design systems, accessibility, developer-friendly interfaces  
-- **Computer Science** — algorithms, operating systems, and core systems concepts  
+## Flagship repositories
 
----
+- [`master-platform`](https://github.com/k3n37/master-platform)  
+  Flagship intelligent cloud SaaS platform connecting product, backend, AI, data, infrastructure, and reliability.
 
-## ⭐ Featured Projects
+- [`skill-os-ui`](https://github.com/k3n37/skill-os-ui)  
+  Premium UI layer for engineering dashboards, repository catalogs, and system storytelling.
 
-- **fullstack-auth-app** — Secure authentication system with RBAC, rate limiting, and audit logging  
-- **recommender-system** — End-to-end ML system with baselines, evaluation metrics, and analysis  
-- **web-vulnerability-lab** — Safe demonstrations of common web vulnerabilities and mitigations  
-- **design-systems** — Accessible, reusable UI components and design tokens  
+- [`saas-platform`](https://github.com/k3n37/saas-platform)  
+  Product-oriented SaaS platform starter focused on multi-tenant business domains.
 
----
+- [`ai-platform`](https://github.com/k3n37/ai-platform)  
+  AI service layer for ingestion, retrieval, embeddings, and LLM orchestration.
 
-## 🎯 Current Focus
+- [`service-template`](https://github.com/k3n37/service-template)  
+  Golden-path service starter for production-minded platform services.
 
-Building a **high-quality, domain-structured GitHub portfolio** with:
-- complete, end-to-end projects  
-- strong documentation and clear design rationale  
-- tests and evaluation where appropriate  
-- an emphasis on **engineering clarity and long-term maintainability**
+- [`internal-developer-platform`](https://github.com/k3n37/internal-developer-platform)  
+  Self-service platform direction for service ergonomics, tooling, and internal developer workflows.
 
----
+## Ecosystem map
 
-## 🌐 Socials
+### Core
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k3n37)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akeemayman@gmail.com)
+- [`foundations-lab`](https://github.com/k3n37/foundations-lab)
+- [`algorithms-and-data-structures`](https://github.com/k3n37/algorithms-and-data-structures)
+- [`programming-patterns`](https://github.com/k3n37/programming-patterns)
+- [`skill-os-ui`](https://github.com/k3n37/skill-os-ui)
 
----
+### Systems
 
-## 💻 Tech Stack
+- [`system-design-lab`](https://github.com/k3n37/system-design-lab)
+- [`distributed-systems-lab`](https://github.com/k3n37/distributed-systems-lab)
 
-**Languages**
-- Python, TypeScript, Go, Rust, Java
+### Infrastructure
 
-**Web & Frameworks**
-- React, Node.js, Django, GraphQL, Flutter
+- [`infrastructure-platform`](https://github.com/k3n37/infrastructure-platform)
+- [`devops-toolkit`](https://github.com/k3n37/devops-toolkit)
+- [`observability-stack`](https://github.com/k3n37/observability-stack)
+- [`security-platform`](https://github.com/k3n37/security-platform)
 
-**Databases**
-- PostgreSQL, MongoDB, MySQL, SQLite, Supabase
+### Data and AI
 
-**Machine Learning**
-- NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib
+- [`data-platform`](https://github.com/k3n37/data-platform)
+- [`streaming-analytics-engine`](https://github.com/k3n37/streaming-analytics-engine)
+- [`ai-platform`](https://github.com/k3n37/ai-platform)
+- [`ai-knowledge-system`](https://github.com/k3n37/ai-knowledge-system)
 
-**Infrastructure & Tooling**
-- Git, GitHub Actions, Docker, Nginx, Cloudflare, Vercel, Netlify
+### Tooling
 
----
+- [`service-template`](https://github.com/k3n37/service-template)
+- [`automation-tools`](https://github.com/k3n37/automation-tools)
+- [`internal-developer-platform`](https://github.com/k3n37/internal-developer-platform)
 
-## 📊 GitHub Stats
+### Products
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=k3n37&theme=dark&hide_border=false)
-![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=k3n37&theme=dark&hide_border=false)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k3n37&layout=compact&theme=dark)
+- [`master-platform`](https://github.com/k3n37/master-platform)
+- [`saas-platform`](https://github.com/k3n37/saas-platform)
+- [`project-universe`](https://github.com/k3n37/project-universe)
 
----
+## Current focus
 
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- deepen the flagship platform repos with stronger real implementations
+- connect the portfolio through better developer-portal and architecture experiences
+- keep every repo focused, intentional, and useful
 
----
+## Stack
 
-[![](https://visitcount.itsvg.in/api?id=k3n37&icon=0&color=0)](https://visitcount.itsvg.in)
+- TypeScript, Python, Go
+- React, Node.js, FastAPI
+- PostgreSQL, Redis, vector search
+- Docker, Kubernetes, Terraform
+- OpenTelemetry and platform-oriented observability patterns
+
+## Contact
+
+- Email: [akeemayman@gmail.com](mailto:akeemayman@gmail.com)
+- Instagram: [@k3n37](https://instagram.com/k3n37)
+
+## GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=k3n37&theme=dark&hide_border=true&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k3n37&layout=compact&theme=dark&hide_border=true)
