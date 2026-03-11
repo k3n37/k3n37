@@ -37,45 +37,66 @@ The goal is to show not just isolated code, but how modern software systems fit 
 - [`internal-developer-platform`](https://github.com/k3n37/internal-developer-platform)  
   Self-service platform direction for service ergonomics, tooling, and internal developer workflows.
 
-## Ecosystem map
+## 10/10 Software Engineer Skill Map
 
-### Core
+### 1. Computer Science Foundations
 
 - [`foundations-lab`](https://github.com/k3n37/foundations-lab)
 - [`algorithms-and-data-structures`](https://github.com/k3n37/algorithms-and-data-structures)
-- [`programming-patterns`](https://github.com/k3n37/programming-patterns)
-- [`skill-os-ui`](https://github.com/k3n37/skill-os-ui)
 
-### Systems
+### 2. Programming Mastery
+
+- [`programming-patterns`](https://github.com/k3n37/programming-patterns)
+
+### 3. Software Engineering Practices
+
+- [`service-template`](https://github.com/k3n37/service-template)
+- [`saas-platform`](https://github.com/k3n37/saas-platform)
+
+### 4. System Design & Architecture
 
 - [`system-design-lab`](https://github.com/k3n37/system-design-lab)
+- [`k3n37-systems-lab`](https://github.com/k3n37/k3n37-systems-lab)
+
+### 5. Distributed Systems
+
 - [`distributed-systems-lab`](https://github.com/k3n37/distributed-systems-lab)
 
-### Infrastructure
+### 6. Infrastructure & Cloud
 
 - [`infrastructure-platform`](https://github.com/k3n37/infrastructure-platform)
 - [`devops-toolkit`](https://github.com/k3n37/devops-toolkit)
+
+### 7. Observability & Reliability
+
 - [`observability-stack`](https://github.com/k3n37/observability-stack)
+
+### 8. Security Engineering
+
 - [`security-platform`](https://github.com/k3n37/security-platform)
 
-### Data and AI
+### 9. Data Engineering
 
 - [`data-platform`](https://github.com/k3n37/data-platform)
 - [`streaming-analytics-engine`](https://github.com/k3n37/streaming-analytics-engine)
+
+### 10. AI & Intelligent Systems
+
 - [`ai-platform`](https://github.com/k3n37/ai-platform)
 - [`ai-knowledge-system`](https://github.com/k3n37/ai-knowledge-system)
 
-### Tooling
+### 11. Automation & Developer Productivity
 
-- [`service-template`](https://github.com/k3n37/service-template)
 - [`automation-tools`](https://github.com/k3n37/automation-tools)
 - [`internal-developer-platform`](https://github.com/k3n37/internal-developer-platform)
 
-### Products
+### 12. Product & Leadership
 
 - [`master-platform`](https://github.com/k3n37/master-platform)
-- [`saas-platform`](https://github.com/k3n37/saas-platform)
+- [`skill-os-ui`](https://github.com/k3n37/skill-os-ui)
 - [`project-universe`](https://github.com/k3n37/project-universe)
+- [`dev-nairb`](https://github.com/k3n37/dev-nairb)
+- [`personal-portfolio`](https://github.com/k3n37/personal-portfolio)
 
 ## Current focus
 
