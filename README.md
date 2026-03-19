@@ -1,88 +1,103 @@
 # k3n37
 
-Engineering systems, AI platforms, and product infrastructure.
+Engineering systems, AI platforms, cloud infrastructure, and product architecture.
 
-I build connected software across product engineering, intelligent systems, distributed architecture, platform tooling, security, and observability. This profile is organized as a focused engineering portfolio rather than a loose collection of unrelated repositories.
+I build a connected portfolio of repositories across the major domains of modern software engineering. The account is structured as an engineering ecosystem: each repository is meant to represent a domain, platform, pattern library, or bridge project that contributes to a complete body of work.
 
----
+## Flagship Ecosystem
 
-## 🧭 About
+- `orbit` — flagship intelligent cloud SaaS platform
+- `summit` — product and multi-tenant business platform
+- `synapse` — AI orchestration and intelligent systems
+- `canvas` — frontend interface and presentation layer
+- `relay` — internal developer platform
 
-- Building an ecosystem of public repos around systems design, platform engineering, AI, and product development
-- Interested in clean architecture, service foundations, operational clarity, and practical developer experience
-- Using GitHub as a structured project gallery for long-term engineering work
+## Engineering Domains
 
----
+| Domain | Primary Repo | Supporting Repos |
+| --- | --- | --- |
+| Architecture | `atlas` | `orbit`, `mesh` |
+| Backend Engineering | `forge` | `craft`, `orbit` |
+| Frontend Engineering | `canvas` | `personal-portfolio` |
+| Data Engineering | `flux` | `pulse` |
+| AI / ML Systems | `synapse` | `lore` |
+| Infrastructure / Cloud | `nimbus` | `anvil` |
+| Security Engineering | `aegis` | `summit` |
+| Observability | `beacon` | `pulse` |
+| Developer Platform / Internal Tooling | `relay` | `automata` |
+| Testing / Quality Engineering | `verdict` | `forge`, `summit` |
+| CI/CD / Release Engineering | `runway` | `anvil` |
+| Database / Persistence Engineering | `vault` | `flux` |
+| Reliability / SRE | `signal` | `beacon` |
+| Performance Engineering | `benchmark` | `kernel`, `mesh` |
+| API Platform / Integration Engineering | `gateway` | `forge`, `summit` |
+| Product / Business Systems | `summit` | `orbit` |
+| Documentation / Knowledge Systems | `lore` | `cosmos`, `k3n37` |
+| Computer Science / Algorithms | `kernel` | `foundry` |
 
-## 🚀 Project Gallery
+## Public Repositories
 
-| S No | Project Name | Domain | Repository | Status |
-| --- | --- | --- | --- | --- |
-| 1 | Orbit | Intelligent SaaS Platform | [Repo](https://github.com/k3n37/orbit) | Active |
-| 2 | Synapse | AI Platform / LLM Orchestration | [Repo](https://github.com/k3n37/synapse) | Active |
-| 3 | Summit | Multi-tenant SaaS Architecture | [Repo](https://github.com/k3n37/summit) | Active |
-| 4 | Canvas | UI Systems / Engineering Dashboard | [Repo](https://github.com/k3n37/canvas) | Active |
-| 5 | Relay | Internal Developer Platform | [Repo](https://github.com/k3n37/relay) | Active |
-| 6 | Forge | TypeScript Service Starter | [Repo](https://github.com/k3n37/forge) | Active |
-| 7 | Atlas | System Design / Architecture Notes | [Repo](https://github.com/k3n37/atlas) | Active |
-| 8 | Mesh | Distributed Systems Experiments | [Repo](https://github.com/k3n37/mesh) | Active |
-| 9 | Nimbus | Infrastructure Platform Patterns | [Repo](https://github.com/k3n37/nimbus) | Active |
-| 10 | Beacon | Observability / Reliability | [Repo](https://github.com/k3n37/beacon) | Active |
-| 11 | Aegis | Security Engineering Patterns | [Repo](https://github.com/k3n37/aegis) | Active |
-| 12 | Flux | Data Platform / Pipelines | [Repo](https://github.com/k3n37/flux) | Active |
-| 13 | Pulse | Realtime Analytics | [Repo](https://github.com/k3n37/pulse) | Active |
-| 14 | Lore | Retrieval / Knowledge Layer | [Repo](https://github.com/k3n37/lore) | Active |
-| 15 | Automata | Automation Workflows | [Repo](https://github.com/k3n37/automata) | Active |
-| 16 | Kernel | Algorithms / Core CS | [Repo](https://github.com/k3n37/kernel) | Active |
-| 17 | Foundry | Engineering Foundations | [Repo](https://github.com/k3n37/foundry) | Active |
-| 18 | Craft | TypeScript Implementation Patterns | [Repo](https://github.com/k3n37/craft) | Active |
-| 19 | Cosmos | Portfolio Orchestration | [Repo](https://github.com/k3n37/cosmos) | Active |
-| 20 | Personal Portfolio | Public-facing Portfolio Site | [Repo](https://github.com/k3n37/personal-portfolio) | Active |
+| Repo | Role |
+| --- | --- |
+| `orbit` | Bridge project tying the ecosystem together end-to-end |
+| `summit` | Product and business-domain SaaS architecture |
+| `synapse` | AI platform and orchestration layer |
+| `canvas` | Frontend systems and engineering dashboard direction |
+| `relay` | Internal developer platform and self-service patterns |
+| `forge` | Backend service starter and engineering baseline |
+| `atlas` | Architecture notes, case studies, and design reasoning |
+| `mesh` | Distributed systems experiments |
+| `nimbus` | Infrastructure and cloud platform patterns |
+| `beacon` | Observability and telemetry foundations |
+| `aegis` | Security engineering patterns |
+| `verdict` | Testing and quality engineering patterns |
+| `runway` | CI/CD, release automation, and delivery workflows |
+| `vault` | Persistence, storage design, and schema discipline |
+| `signal` | Reliability engineering, SRE playbooks, and service objectives |
+| `benchmark` | Performance engineering, profiling, and load-testing patterns |
+| `gateway` | API governance, contracts, and integration boundaries |
+| `flux` | Data platform and pipeline boundaries |
+| `pulse` | Real-time analytics and event processing |
+| `lore` | Retrieval and knowledge systems |
+| `automata` | Automation workflows and engineering productivity |
+| `anvil` | Operational CLI and release hygiene support |
+| `kernel` | Algorithms and core CS implementations |
+| `foundry` | Engineering foundations and reference exercises |
+| `craft` | TypeScript implementation patterns |
+| `cosmos` | Portfolio orchestration and ecosystem curation |
+| `personal-portfolio` | Public-facing portfolio site |
 
----
+## Recent Additions
 
-## 🧪 Coming Soon
+- `verdict` — testing and quality engineering
+- `runway` — CI/CD and release engineering
+- `vault` — database and persistence engineering
+- `signal` — reliability and SRE
+- `benchmark` — performance engineering
+- `gateway` — API platform and integration engineering
 
-| S No | Project Name | Domain | Repository | Status |
-| --- | --- | --- | --- | --- |
-| 1 | Project Placeholder | TBD | [Repo](#) Placeholder for future public project | Planned |
-| 2 | Project Placeholder | TBD | [Repo](#) Placeholder for future public project | Planned |
-| 3 | Project Placeholder | TBD | [Repo](#) Placeholder for future public project | Planned |
-
----
-
-## 🛠 Skills / Tech Stack
+## Tech Stack
 
 | Area | Tools / Technologies |
 | --- | --- |
 | Languages | TypeScript, Python, Go |
-| Frontend | React, Next.js, UI system design |
+| Frontend | React, Vite, Tailwind CSS |
 | Backend | Node.js, FastAPI, service-oriented architecture |
-| Data | PostgreSQL, Redis, vector search, event flows |
+| Data | PostgreSQL, Redis, event flows, vector search |
+| AI | LLM orchestration, retrieval systems, embeddings |
 | Infra | Docker, Kubernetes, Terraform |
-| Platform | Internal tooling, service foundations, release workflows |
-| Reliability | OpenTelemetry, logs, metrics, traces, dashboards |
-| AI | Retrieval systems, embeddings, LLM orchestration |
+| Platform | Internal tooling, service foundations, automation |
+| Reliability | Logs, metrics, traces, operational visibility |
 
----
+## Current Focus
 
-## 📈 GitHub Stats
+- Expanding the portfolio toward full 18-domain coverage
+- Deepening the newly added delivery, testing, persistence, reliability, performance, and API layers
+- Building bridge projects that prove breadth and system-level coherence
+- Evolving `orbit` into the flagship platform that ties the ecosystem together
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k3n37&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k3n37&layout=compact&hide_border=true&theme=transparent)
-
----
-
-## 🤝 Connect With Me
+## Connect
 
 - GitHub: [@k3n37](https://github.com/k3n37)
 - Email: [akeemayman@gmail.com](mailto:akeemayman@gmail.com)
 - Instagram: [@k3n37](https://instagram.com/k3n37)
-
----
-
-## Notes
-
-- Private or not-yet-public work is intentionally not linked here
-- Placeholder rows in the "Coming Soon" section are meant for future public projects
