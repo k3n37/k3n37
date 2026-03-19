@@ -37,35 +37,35 @@ I build a connected portfolio of repositories across the major domains of modern
 
 ## Public Repositories
 
-| Repo | Role |
+| Repo | Domain Alignment |
 | --- | --- |
-| [`orbit`](https://github.com/k3n37/orbit) | Bridge project tying the ecosystem together end-to-end |
-| [`summit`](https://github.com/k3n37/summit) | Product and business-domain SaaS architecture |
-| [`synapse`](https://github.com/k3n37/synapse) | AI platform and orchestration layer |
-| [`canvas`](https://github.com/k3n37/canvas) | Frontend systems and engineering dashboard direction |
-| [`relay`](https://github.com/k3n37/relay) | Internal developer platform and self-service patterns |
-| [`forge`](https://github.com/k3n37/forge) | Backend service starter and engineering baseline |
-| [`atlas`](https://github.com/k3n37/atlas) | Architecture notes, case studies, and design reasoning |
-| [`mesh`](https://github.com/k3n37/mesh) | Distributed systems experiments |
-| [`nimbus`](https://github.com/k3n37/nimbus) | Infrastructure and cloud platform patterns |
-| [`beacon`](https://github.com/k3n37/beacon) | Observability and telemetry foundations |
-| [`aegis`](https://github.com/k3n37/aegis) | Security engineering patterns |
-| [`verdict`](https://github.com/k3n37/verdict) | Testing and quality engineering patterns |
-| [`runway`](https://github.com/k3n37/runway) | CI/CD, release automation, and delivery workflows |
-| [`vault`](https://github.com/k3n37/vault) | Persistence, storage design, and schema discipline |
-| [`signal`](https://github.com/k3n37/signal) | Reliability engineering, SRE playbooks, and service objectives |
-| [`benchmark`](https://github.com/k3n37/benchmark) | Performance engineering, profiling, and load-testing patterns |
-| [`gateway`](https://github.com/k3n37/gateway) | API governance, contracts, and integration boundaries |
-| [`flux`](https://github.com/k3n37/flux) | Data platform and pipeline boundaries |
-| [`pulse`](https://github.com/k3n37/pulse) | Real-time analytics and event processing |
-| [`lore`](https://github.com/k3n37/lore) | Retrieval and knowledge systems |
-| [`automata`](https://github.com/k3n37/automata) | Automation workflows and engineering productivity |
-| [`anvil`](https://github.com/k3n37/anvil) | Operational CLI and release hygiene support |
-| [`kernel`](https://github.com/k3n37/kernel) | Algorithms and core CS implementations |
-| [`foundry`](https://github.com/k3n37/foundry) | Engineering foundations and reference exercises |
-| [`craft`](https://github.com/k3n37/craft) | TypeScript implementation patterns |
-| [`cosmos`](https://github.com/k3n37/cosmos) | Portfolio orchestration and ecosystem curation |
-| [`personal-portfolio`](https://github.com/k3n37/personal-portfolio) | Public-facing portfolio site |
+| [`orbit`](https://github.com/k3n37/orbit) | Cross-domain flagship platform spanning product systems, backend architecture, AI, data, infrastructure, security, and observability |
+| [`summit`](https://github.com/k3n37/summit) | Product and business systems with multi-tenant SaaS architecture, domain workflows, and service design |
+| [`synapse`](https://github.com/k3n37/synapse) | AI / ML systems, LLM orchestration, retrieval workflows, and intelligent service foundations |
+| [`canvas`](https://github.com/k3n37/canvas) | Frontend engineering, interface systems, and presentation architecture for the wider ecosystem |
+| [`relay`](https://github.com/k3n37/relay) | Developer platform, internal tooling, self-service flows, and engineering ergonomics |
+| [`forge`](https://github.com/k3n37/forge) | Backend engineering, service foundations, runtime structure, and implementation baselines |
+| [`atlas`](https://github.com/k3n37/atlas) | Architecture, system design, tradeoff analysis, and technical reasoning |
+| [`mesh`](https://github.com/k3n37/mesh) | Distributed systems, coordination patterns, retries, idempotency, and failure-aware design |
+| [`nimbus`](https://github.com/k3n37/nimbus) | Infrastructure / cloud, environment design, networking, and platform provisioning patterns |
+| [`beacon`](https://github.com/k3n37/beacon) | Observability, telemetry pipelines, monitoring foundations, and operational visibility |
+| [`aegis`](https://github.com/k3n37/aegis) | Security engineering, identity, authorization, secrets, and secure service boundaries |
+| [`verdict`](https://github.com/k3n37/verdict) | Testing and quality engineering across unit, integration, contract, and end-to-end confidence layers |
+| [`runway`](https://github.com/k3n37/runway) | CI/CD, release engineering, deployment flow, promotion strategy, and rollback discipline |
+| [`vault`](https://github.com/k3n37/vault) | Database and persistence engineering, schema design, indexing, migrations, and storage tradeoffs |
+| [`signal`](https://github.com/k3n37/signal) | Reliability / SRE, service objectives, incident response, runbooks, and resilience practice |
+| [`benchmark`](https://github.com/k3n37/benchmark) | Performance engineering, benchmarking, profiling, load analysis, and capacity-oriented thinking |
+| [`gateway`](https://github.com/k3n37/gateway) | API platform and integration engineering, contracts, versioning, and service interoperability |
+| [`flux`](https://github.com/k3n37/flux) | Data engineering, pipeline boundaries, platform data flow, and model movement across systems |
+| [`pulse`](https://github.com/k3n37/pulse) | Real-time analytics, event processing, streaming insights, and lightweight aggregation systems |
+| [`lore`](https://github.com/k3n37/lore) | Documentation and knowledge systems, retrieval architecture, grounding, and internal knowledge access |
+| [`automata`](https://github.com/k3n37/automata) | Automation, workflow acceleration, scripting, and engineering productivity support |
+| [`anvil`](https://github.com/k3n37/anvil) | Operational tooling, environment validation, release hygiene, and delivery support workflows |
+| [`kernel`](https://github.com/k3n37/kernel) | Computer science, algorithms, data structures, and core systems reasoning |
+| [`foundry`](https://github.com/k3n37/foundry) | Engineering foundations, reference implementations, problem solving, and technical depth building |
+| [`craft`](https://github.com/k3n37/craft) | Implementation patterns, code structure, maintainable TypeScript design, and engineering craft |
+| [`cosmos`](https://github.com/k3n37/cosmos) | Portfolio orchestration, ecosystem mapping, metadata curation, and narrative structure |
+| [`personal-portfolio`](https://github.com/k3n37/personal-portfolio) | Public presentation, portfolio visibility, and personal web presence |
 
 ## Recent Additions
 
